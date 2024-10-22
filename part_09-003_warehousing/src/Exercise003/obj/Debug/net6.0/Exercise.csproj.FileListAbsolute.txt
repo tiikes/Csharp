@@ -1,0 +1,14 @@
+C:\Users\tiiak\AppData\Local\tmc\vscode\centria-csharp-advanced-spring-24\part_09-003_warehousing\src\Exercise003\bin\Debug\net6.0\Exercise.exe
+C:\Users\tiiak\AppData\Local\tmc\vscode\centria-csharp-advanced-spring-24\part_09-003_warehousing\src\Exercise003\bin\Debug\net6.0\Exercise.deps.json
+C:\Users\tiiak\AppData\Local\tmc\vscode\centria-csharp-advanced-spring-24\part_09-003_warehousing\src\Exercise003\bin\Debug\net6.0\Exercise.runtimeconfig.json
+C:\Users\tiiak\AppData\Local\tmc\vscode\centria-csharp-advanced-spring-24\part_09-003_warehousing\src\Exercise003\bin\Debug\net6.0\Exercise.dll
+C:\Users\tiiak\AppData\Local\tmc\vscode\centria-csharp-advanced-spring-24\part_09-003_warehousing\src\Exercise003\bin\Debug\net6.0\Exercise.pdb
+C:\Users\tiiak\AppData\Local\tmc\vscode\centria-csharp-advanced-spring-24\part_09-003_warehousing\src\Exercise003\obj\Debug\net6.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiiak\AppData\Local\tmc\vscode\centria-csharp-advanced-spring-24\part_09-003_warehousing\src\Exercise003\obj\Debug\net6.0\Exercise.AssemblyInfoInputs.cache
+C:\Users\tiiak\AppData\Local\tmc\vscode\centria-csharp-advanced-spring-24\part_09-003_warehousing\src\Exercise003\obj\Debug\net6.0\Exercise.AssemblyInfo.cs
+C:\Users\tiiak\AppData\Local\tmc\vscode\centria-csharp-advanced-spring-24\part_09-003_warehousing\src\Exercise003\obj\Debug\net6.0\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\tiiak\AppData\Local\tmc\vscode\centria-csharp-advanced-spring-24\part_09-003_warehousing\src\Exercise003\obj\Debug\net6.0\Exercise.dll
+C:\Users\tiiak\AppData\Local\tmc\vscode\centria-csharp-advanced-spring-24\part_09-003_warehousing\src\Exercise003\obj\Debug\net6.0\refint\Exercise.dll
+C:\Users\tiiak\AppData\Local\tmc\vscode\centria-csharp-advanced-spring-24\part_09-003_warehousing\src\Exercise003\obj\Debug\net6.0\Exercise.pdb
+C:\Users\tiiak\AppData\Local\tmc\vscode\centria-csharp-advanced-spring-24\part_09-003_warehousing\src\Exercise003\obj\Debug\net6.0\Exercise.genruntimeconfig.cache
+C:\Users\tiiak\AppData\Local\tmc\vscode\centria-csharp-advanced-spring-24\part_09-003_warehousing\src\Exercise003\obj\Debug\net6.0\ref\Exercise.dll

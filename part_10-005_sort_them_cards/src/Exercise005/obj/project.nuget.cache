@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZieVcH7t3CnBVmoX0AvrWE8Q3gtTeRe/OH8kyrxFfCYg8HiYtStO1XDo7QEDuykHIYY38/pLfGqVs2xLz610w==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\tiiak\\AppData\\Local\\tmc\\vscode\\centria-csharp-advanced-spring-24\\part_10-005_sort_them_cards\\src\\Exercise005\\Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiiak\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\tiiak\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\tiiak\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\tiiak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
